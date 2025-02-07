@@ -1,3 +1,4 @@
+https://react-admin-dashboard-4rym.vercel.app/
 ## Introduction
 
 The Finance Admin Dashboard is a powerful web application designed to provide real-time financial insights and analytics. Built using cutting-edge technologies, this dashboard offers an intuitive interface for monitoring key financial metrics, transactions, and weekly trends.
